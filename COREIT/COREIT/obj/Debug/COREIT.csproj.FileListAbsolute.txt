@@ -1,0 +1,9 @@
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\bin\Debug\COREIT.exe.config
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.csprojResolveAssemblyReference.cache
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.Login.resources
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.Properties.Resources.resources
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.csproj.GenerateResource.Cache
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\bin\Debug\COREIT.exe
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\bin\Debug\COREIT.pdb
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.exe
+c:\users\claudita\documents\visual studio 2013\Projects\COREIT\COREIT\obj\Debug\COREIT.pdb
